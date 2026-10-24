@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmarShop</string>
+    <string name="store_tagline">Bangladesh’s Premier Online Marketplace</string>
+    <string name="currency_symbol">৳</string>
+</resources>

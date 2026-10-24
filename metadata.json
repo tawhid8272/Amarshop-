@@ -1,0 +1,6 @@
+{
+  "name": "AmarShop",
+  "description": "A modern, complete Bangladesh e-commerce shopping platform and admin console with bKash/Nagad payments and bilingual English/Bengali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
